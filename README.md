@@ -4,12 +4,12 @@ In progress 👀
 
 ...
 
-🌻 [_Nudge: Improving Decisions about Health, Wealth, and Happiness_](nudge.md) by Richard H. Thaler and Cass R. Sunstein
+🌻 [Nudge: Improving Decisions about Health, Wealth, and Happiness](nudge.md) by Richard H. Thaler and Cass R. Sunstein
 
-👿 _Ruined by Design: How Designers Destroyed the World_ by Mike Monteiro
+👿 Ruined by Design: How Designers Destroyed the World by Mike Monteiro
 
-💖 _Emotionally Intelligent Design_ by Pamela Pavliscak
+💖 Emotionally Intelligent Design by Pamela Pavliscak
 
-💭 _Thinking, Fast and Slow_ by Daniel Kahneman
+💭 Thinking, Fast and Slow by Daniel Kahneman
 
-🗣 _Talking to Humans: Success starts with understanding your customers_ by Giff Constable 
+🗣 Talking to Humans: Success starts with understanding your customers by Giff Constable 
