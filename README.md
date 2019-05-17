@@ -4,7 +4,7 @@ In progress 👀
 
 ...
 
-🌻 [_Nudge: Improving Decisions about Health, Wealth, and Happiness_](Nudge.md) by Richard H. Thaler and Cass R. Sunstein
+🌻 [_Nudge: Improving Decisions about Health, Wealth, and Happiness_](nudge.md) by Richard H. Thaler and Cass R. Sunstein
 
 👿 _Ruined by Design: How Designers Destroyed the World_ by Mike Monteiro
 
