@@ -1,6 +1,6 @@
 # Nudge: Improving Decisions about Health, Wealth, and Happiness by Richard H. Thaler and Cass R. Sunstein
 
-Overall: ⭐️⭐️⭐️⭐️⭐️
+Overall: ★★★★★
 
 `🙇🏻‍♀️Insightful` `🖋Articulate` `🔥Thought-provoking`
 
